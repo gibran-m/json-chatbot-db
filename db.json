@@ -3,19 +3,19 @@
       {
           "tag": "Dokter gigi",
           "nama" :"Drg. Gilang",
-          "jadwalPraktik" :"Hari Senin - jumat"
+          "jadwalPraktik" :"Hari Senin - jumat",
           "jam": "09.00-15.00 wib"
       },
       {
           "tag": "Dokter umum",
           "nama" :"Dr. Aldi",
-          "jadwalPraktik" :"Hari Senin - jumat"
+          "jadwalPraktik" :"Hari Senin - jumat",
           "jam": "09.00-15.00 wib"
       },
       {
           "tag": "Dokter anak",
           "nama" :"Dr. Qotrun, Sp.A",
-          "jadwalPraktik" :"Hari Senin - jumat"
+          "jadwalPraktik" :"Hari Senin - jumat",
           "jam": "09.00-15.00 wib"
       }
   ]
